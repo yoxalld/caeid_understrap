@@ -1,5 +1,8 @@
+# Directores
 /node_modules export-ignore
 /.github export-ignore
+
+# Files
 .gitignore export-ignore
 .gitattributes export-ignore
 .browserslistrc export-ignore
