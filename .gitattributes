@@ -1,5 +1,7 @@
 /node_modules export-ignore
 /.github export-ignore
+.gitignore export-ignore
+.gitattributes export-ignore
 .browserslistrc export-ignore
 .editorconfig export-ignore
 .jscsrc export-ignore
